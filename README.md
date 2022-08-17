@@ -1,3 +1,3 @@
 # DemoFirstRepo
 Demo Repository 
-##About creating repo
+## About creating remote repository
